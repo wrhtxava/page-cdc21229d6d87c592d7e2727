@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c441d5ec517d60e39c44bd52",
+  "owner": "wrhtxava",
+  "repo": "page-cdc21229d6d87c592d7e2727",
+  "title": "渡口(Dukou)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cdc21229d6d87c592d7e2727",
+      "a": "渡口(Dukou)",
+      "b": "稳定全球clash加速器",
+      "entity": "渡口(Dukou)",
+      "brand": "渡口(Dukou)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6188b377b49699a65b26922238de342d4c90c30d49ec2a2068ade66d6ebd7387",
+      "content": {
+        "primary_entity": "渡口(Dukou)",
+        "keyword1": "渡口(Dukou)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 与路由器各有对应订阅方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选好套餐，再依客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供实用信息。基础版每月 15 元含 100GB 流量与 3 台设备，旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线游戏加速，团队版每月 85 元含 1000GB 流量与 20 台设备。年付方案分别为 150 元、350 元与 850 元，按需选择更合适。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个角度对比，找到匹配日常使用的套餐。",
+          "AI_FEATURES_TITLE": "套餐对比要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量选择。",
+          "AI_FEATURE_TEXT_2": "支持同时在线设备数从 3 台到 20 台，覆盖个人到团队场景。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、依客户端文档配置订阅三步完成设置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "渡口(Dukou) 提供面向全球连接的加速服务，通过 Clash 客户端配置订阅即可使用。基础版、旗舰版与团队版覆盖不同流量和设备需求，年付更划算。",
+          "AI_HERO_SUBTITLE": "稳定连接，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "设备数量从 3 台到 20 台可选",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线游戏加速",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐选择",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版与团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "在客户端下载页查看设备系统对应的适配要求，确认客户端版本。",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "渡口(Dukou) 加速服务",
+          "AI_FAQ_ANSWER_1": "在套餐卡片中选择基础版、旗舰版或团队版，确认月付或年付后提交。基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可按常用手机、电脑与平板数量选择，多设备家庭建议旗舰版起步。",
+          "AI_FAQ_ANSWER_3": "购买后在客户端中新建订阅，粘贴订阅地址并更新节点。若更新失败，检查订阅链接是否完整、网络是否可访问，或更换客户端版本重试。",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150，旗舰版月付 ¥35、年付 ¥350，团队版月付 ¥85、年付 ¥850。年付相比月付总价更低，适合长期使用。",
+          "AI_FAQ_ANSWER_5": "流量用尽后可等待下个计费周期重置，或切换到更高档套餐补足额度。旗舰版与团队版提供更大流量池，团队版 1000GB 可覆盖多设备共享。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择渡口套餐？",
+          "AI_FAQ_QUESTION_2": "一台订阅可以同时在几台设备使用？",
+          "AI_FAQ_QUESTION_3": "订阅导入失败怎么办？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "流量用尽后如何处理？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xqrnvkl.cn",
+    "host": "xqrnvkl.cn"
+  },
+  "file_hashes": {
+    "index.html": "6f8fd2363c60def919128190626ccb9d09df5eafd55e085b074f24d39e2db474",
+    "sitemap.xml": "d6d9179e09e0ddcc2e02a065d54ceec490116811c36c005ac5bf0665fca76fdf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c3ef71a4b68f86d4dfedf1559f715371024e7cfed74cc40bc9acc77264da3eda",
+    "robots.txt": "37354a1945569830a7051466436f2a2cec450ae659dd610e68b707765e53a571",
+    "ede53f7da8308e7df4eb8f5ff25ec9ce.txt": "ca76325768c2cfc681580dc75ec419dc2fc152e2bcd7b3e5db07dfc2dfbd1e3b"
+  },
+  "revision": "ac05916c8086b9e79e0eb2f8f39c085b09abb7199bb46f9b92916ec009a4223e"
+}
